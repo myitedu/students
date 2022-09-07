@@ -2,8 +2,8 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="fd8ccf87-f333-4a9a-b018-39741c364914" name="myitedu.local" url="http://myitedu.local/">
-        <fileTransfer mountedRoot="C:\xampp\htdocs\myitedu.local" accessType="MOUNT" port="0" />
+      <webServer id="18b45ee8-bcbb-4ef3-ac06-3b7e90f6ec11" name="students.uz" url="http://students.uz">
+        <fileTransfer mountedRoot="$PROJECT_DIR$" accessType="MOUNT" port="0" />
       </webServer>
     </option>
   </component>
