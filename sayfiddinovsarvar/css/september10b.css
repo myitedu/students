@@ -1,0 +1,28 @@
+#jon{
+    height: 800px;
+    width: 770px;
+    margin: auto;
+    font-size: 50px;
+    text-align: center;
+}
+.left_col{
+    width: 33%;
+    height: 50%;
+    background-color: red;
+    float: left;
+    background-image: url("https://img.freepik.com/free-photo/grunge-paint-background_1409-1337.jpg?w=2000");
+}
+.middle_col{
+    width: 34%;
+    height: 50%;
+    background-color: green;
+    float: left;
+    background-image: url("https://img.freepik.com/free-photo/abstract-grunge-decorative-relief-navy-blue-stucco-wall-texture-wide-angle-rough-colored-background_1258-28311.jpg?w=2000");
+}
+.right_col{
+    width: 33%;
+    height: 50%;
+    background-color: blue;
+    float: right;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/002/196/579/original/modern-abstract-geometric-background-free-vector.jpg");
+}
