@@ -1,0 +1,45 @@
+
+.header1{
+    text-align: center;
+}
+
+tr:nth-child(even){
+    background-color: #e5e1e1;
+}
+td:first-child{
+    text-align: center;
+}
+td img{
+    width: 84px;
+}
+
+/*
+.mytable{
+    width: 90%;
+    height: 600px;
+    background-color: #ece9e9;
+    margin: auto;
+    border: 1px solid gray;
+    border-radius: 15px;
+}
+.tbl_companies{
+    width: 98%;
+    margin: auto;
+    background-color: white;
+    border:  1px solid #acaaaa;
+}
+
+.tbl_companies td, th{
+    border-bottom: 1px solid #acaaaa;
+    height: 40px;
+    text-align: left;
+}
+.tbl_companies tr:nth-child(even){
+    background-color: #e5e1e1;
+}
+.tbl_companies tr:hover{
+    background-color: darkred;
+    color: gold;
+    cursor: pointer;
+}
+ */
