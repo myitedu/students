@@ -1,0 +1,84 @@
+.website{
+    width: 100%;
+    height: 700px;
+    /*background-image: url("../img/bg.jpg");*/
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.div1{
+    width: 100%;
+    height: 31px;
+    background-color: white;
+    border-bottom: 1px solid black;
+}
+.div2{
+    width: 100%;
+    height: 89px;
+    background-color: #ffffffa8;
+}
+.logo{
+    width: 89px;
+    margin-left: 61px;
+    margin-top: 6px;
+}
+.div2_leftbox{
+
+}
+.div2_rightbox{
+    padding-top: 30px;
+}
+.div2_rightbox{
+    text-align: center;
+}
+.div2_leftbox span{
+    font-size: 10px;
+}
+input{
+    height: 30px;
+    width: 300px;
+}
+.div3{
+    width: 100%;
+    height: 31px;
+    background-color: #718d03;
+}
+.div4{
+    width: 92%;
+    height: 251px;
+    margin: 30px auto;
+}
+.leftcol{
+    background-image: url("https://images.ctfassets.net/o78em1y1w4i4/LHN0F94cNFCx1drEcfcsY/984e632abf38018f2a6ab22c4b61fdc6/teaser-book-with-heart-pages.jpg?fm=webp&w=1160&q=75");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.leftcol img{
+    width: 50%;
+    height: 100%;
+    position: relative;
+    left: -12px;
+}
+.rightcol{
+    background-color: #718d03;
+}
+.rigtcol_text{
+    width: 80%;
+    margin-top: 50px;
+    margin-left: 40px;
+    color: white;
+}
+.rigtcol_text p{
+    font-size: 20px;
+}
+.mybutton{
+    background-color: #718d03;
+    border: 1px solid white;
+    color: rgb(244, 213, 25);
+    border-radius: 5px;
+    margin-top: 50px;
+    font-size: 25px;
+}
+.mybutton:hover{
+    background-color: black !important;
+    color: gold !important;
+}
