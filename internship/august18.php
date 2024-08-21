@@ -4,7 +4,7 @@
     <html>
     <head>
         <title>Customer Map</title>
-        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDXZpLtSJlwOeet2_RQkDtu3vrQobM4wj4"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=[]"></script>
         <script>
 
 
