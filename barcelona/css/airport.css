@@ -1,0 +1,32 @@
+th{
+    background-color: black !important;
+    color: gold !important;
+}
+tr:nth-child(odd) td{
+    background-color: #e7f5f8;
+}
+tr:hover td{
+    background-color: darkred !important;
+    color: gold !important;
+    cursor: pointer;
+}
+.search_form_p{
+    text-align: center;
+}
+.search_form_p label{
+    font-weight: bolder;
+    font-size: 20px;
+    color: #4d0690;
+}
+.title{
+    text-align: center;
+}
+.airports_total_p{
+    text-align: center;
+}
+.airports_total_p span{
+    background-color: black;
+    color: gold;
+    padding: 3px;
+    border-radius: 6px;
+}

@@ -1,0 +1,51 @@
+body{
+    background-color: black;
+}
+.title{
+    color: red;
+    text-align: center;
+}
+.jontoshmatov{
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    border-radius: 7px;
+    box-shadow: 10px 10px 68px 18px #555555;
+    opacity: 0.5;
+}
+.jontoshmatov:hover{
+    box-shadow: 10px 10px 68px 18px #c90707;
+    cursor: pointer;
+    border: 1px dotted darkred;
+    opacity: 1;
+}
+.image_p{
+    text-align: center;
+}
+.container{
+    margin: auto;
+    width: 80%;
+    background-color: #ffffff;
+    border-radius: 15px;
+    padding: 10px;
+}
+.mytext:first-letter{
+    font-size: 30px;
+    font-weight: bolder;
+    color: green;
+}
+.mytext:first-line{
+    background-color: #d9f2f8;
+}
+.mytext a{
+    text-decoration: none;
+    background-color: black;
+    color: gold;
+    padding-left: 3px;
+    padding-right: 3px;
+    border-radius: 5px;
+}
+.mytext a:hover{
+    background-color: gold;
+    color: black;
+}
