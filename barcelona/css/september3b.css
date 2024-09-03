@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+#living_room{
+    width: 700px;
+    height: 650px;
+    background-image: url("https://fancyhouse-design.com/wp-content/uploads/2024/01/A-comfortable-and-modern-home-lounge-room-with-an-entertainment-TV-where-a-pouf-adds-a-touch-of-relaxation-to-the-living-area.jpg");
+    background-size: 100% 100%;
+    margin: auto;
+}
+#mytv{
+    position: relative;
+    top: 158px;
+    left: 220px;
+    border: none;
+    width: 264px;
+    height: 132px;
+}
+#robot{
+    position: absolute;
+    left: 290px;
+    top: 322px;
+    z-index: 100;
+    height: 14%;
+}
+#robot:hover{
+    height: 28%;
+}
