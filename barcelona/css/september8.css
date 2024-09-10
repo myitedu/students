@@ -1,0 +1,29 @@
+.row{
+    height: 800px;
+}
+.col:first-child{
+    background-color: #dbb106;
+}
+.col:last-child{
+    text-align: center;
+}
+.rightbox_image{
+    width: 80%;
+    position: relative;
+    top: 135px;
+}
+.mytext{
+    width: 70%;
+    height: 230px;
+    position: relative;
+    top: 250px;
+    left: 50px;
+}
+.mytext h1{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.mytext p:last-child{
+    margin-top: 50px;
+}
+

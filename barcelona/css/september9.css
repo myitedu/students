@@ -1,0 +1,11 @@
+.feedbacks_title{
+    text-align: center;
+}
+#feedbacks th{
+    background-color: black !important;
+    color: gold !important;
+}
+textarea{
+    width: 50%;
+    height: 120px;
+}
