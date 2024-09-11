@@ -1,0 +1,15 @@
+.car{
+    width: 120px;
+}
+th{
+    background-color: black !important;
+    color: gold !important;
+}
+tr:nth-child(even) td{
+    background-color: rgba(156, 126, 126, 0.26);
+}
+
+tr:hover td{
+    background-color: #4d0690 !important;
+    cursor: pointer;
+}
