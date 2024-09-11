@@ -1,0 +1,45 @@
+.navbar{
+    width: 90%;
+    height: auto;
+    margin: auto;
+    border: 1px solid black;
+    background-color: lightblue;
+}
+
+.parent_ul {
+    list-style: none;
+}
+.parent_ul li{
+    float: left;
+    margin: 5px;
+    border: 1px solid black;
+    padding: 4px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    background-color: #7e0707;
+    color: goldenrod;
+    box-shadow: 4px 4px 4px 4px black;
+    cursor: pointer;
+    text-align: center;
+}
+.parent_ul li:hover{
+    background-color: gold;
+    color: #7e0707;;
+}
+.child_ul{
+    list-style: none;
+    display: none;
+}
+.child_ul li{
+    float: none;
+    position: relative;
+    left: -46px;
+    width: 120%;
+}
+
+.parent_ul li:hover > .child_ul{
+    display: block;
+}
+.custom_li{
+    width: 250px !important;
+}
