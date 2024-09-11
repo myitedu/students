@@ -1,0 +1,53 @@
+body{
+    background-color: black;
+}
+.container{
+    border: 1px solid black;
+    height: 800px;
+    padding: 0;
+    background-color: whitesmoke;
+    background-image: url("https://image1.masterfile.com/getImage/NjExMS0wNjcyODM0M2VuLjAwMDAwMDAw=ANqmTi/6111-06728343en_Masterfile.jpg");
+    background-size: cover;
+    overflow: auto;
+}
+.logo{
+    height: 80px;
+    float: left;
+}
+header{
+    border-bottom: 3px dotted purple;
+    padding: 10px;
+    background-image: url("https://image1.masterfile.com/getImage/NjExMS0wNjcyODM0M2VuLjAwMDAwMDAw=ANqmTi/6111-06728343en_Masterfile.jpg");
+    background-size: cover;
+}
+.title{
+    float: left;
+    margin-left: 20px;
+}
+nav{
+    background-color: #023b44 !important;
+    color: gold !important;
+    height: auto;
+    text-align: center;
+    padding: 5px;
+}
+nav a{
+    color: gold;
+    text-decoration: none;
+    border: 1px solid black;
+    background-color: black;
+    padding: 4px;
+    border-radius: 7px;
+
+}
+
+nav a:hover{
+    background-color: gold;
+    color: black;
+}
+.btn_go_to_top{
+    position: fixed;
+    top: 55%;
+    left: 90%;
+    width: 60px;
+}
