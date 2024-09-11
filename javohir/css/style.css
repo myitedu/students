@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+body {
+    padding: 20px 40px;
+}
+
+h1 {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.info-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px; 
+    background: red;
+}
