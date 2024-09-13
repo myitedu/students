@@ -138,7 +138,7 @@ $current_day = date('d');
                     }
 
                     if (!$listed_events){
-                        echo "<td class='cal_day_class'>$day</td>";
+                        echo "<td class='cal_day_class $today_class'>$day</td>";
                     }else{
                         echo "<td class='cal_day_class $today_class'>$day 
                     <i class=\"material-icons\" 
