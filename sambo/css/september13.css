@@ -1,0 +1,26 @@
+h1{
+    color: red;
+    text-align: center;
+    border-bottom: 1px solid black;
+    padding-bottom: 10px;
+}
+body{
+    background-color: #f4e8b1;
+    background-image: url("https://media.istockphoto.com/id/1398999936/vector/illustration-of-light-blue-dots-and-striped-circles-pattern-background.jpg?s=612x612&w=0&k=20&c=4277V1AOFLZoU4qsrM99_JrimDq5Cbg6Bxc7Fk7yUJY=");
+    background-size: cover;
+}
+img{
+    width: 120px;
+    height: 120px;
+    margin: 5px;
+    border-radius: 50%;
+    border: 5px solid darkred;
+    opacity: 0.5;
+}
+.imgs_father{
+    text-align: center;
+}
+img:hover{
+    opacity: 1;
+    cursor: pointer;
+}
