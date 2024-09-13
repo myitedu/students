@@ -14,8 +14,8 @@ body {
 td {
     width: 110px;
     height: 110px !important;
-    text-align: right;
-    font-size: 13px;
+    text-align: center;
+    font-size: 30px;
 }
 
 th {
@@ -24,16 +24,7 @@ th {
     background-color: #edc2a9 !important;
 }
 
-td span {
-    background-color: #c4c4c4;
-    color: #000000;
-    padding: 3px;
-    border-radius: 50%;
-    display: block;
-    width: 30px;
-    text-align: center;
-    margin: auto;
-}
+
 #buttons a{
     margin: 4px;
 }
@@ -43,4 +34,17 @@ td span {
 }
 #buttons a:last-child {
     float: right;
+}
+.today_class{
+    background-color: green !important;
+    color: white !important;
+}
+.cal_day_class span{
+    position: relative;
+    top: -10px;
+    left: 20px;
+    background-color: red;
+}
+.material-icons{
+    cursor: pointer;
 }
