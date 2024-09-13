@@ -18,6 +18,7 @@
 <body>
 <?php
 ini_set("display_errors",1);
+ini_set("date.timezone","America/New_York");
 $y = $_GET['year'] ?? date('Y');
 $m = $_GET['month'] ?? date('m');
 $direction = $_GET['d'] ?? null;
