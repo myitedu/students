@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     background-color: black;
 }
@@ -12,5 +13,36 @@ body {
 }
 
 mark {
+=======
+body{
+    background-color: black;
+}
+.container{
+    background-color: whitesmoke;
+    padding: 4px;
+    min-height: 550px;
+    max-height: 700px;
+    margin-top: 30px;
+    border-radius: 13px;
+    overflow: auto;
+}
+.title{
+    text-align: center;
+    color: purple;
+    border-bottom: 3px;
+    padding: 5px;
+}
+.search_form{
+    text-align: center;
+}
+.content{
+    width: 90%;
+    margin: 5px auto;
+    border: 1px solid black;
+    padding: 4px;
+}
+.keyword{
+    background-color: yellow !important;
+>>>>>>> 6dd73cfdf211dc8b67f22e6d81724263f030712a
     padding: 2px;
 }
