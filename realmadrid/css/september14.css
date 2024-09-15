@@ -1,0 +1,18 @@
+body{
+    background-image: url("https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/montana-northern-plains.jpg?crop=0%2C172%2C3008%2C1654&wid=4000&hei=2200&scl=0.752");
+    background-size: cover;
+}
+.container{
+    text-align: center;
+}
+#goat{
+    width: 200px;
+    position: relative;
+}
+#grassland{
+    position: relative;
+    top: 450px;
+}
+#buttons{
+    margin-top: 50px;
+}
