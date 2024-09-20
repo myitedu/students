@@ -1,0 +1,63 @@
+body{
+    background-color: #18301b;
+    background-image: url("https://cdn.pixabay.com/photo/2024/05/21/17/36/fairytale-woods-8778691_640.jpg");
+    background-size: contain;
+}
+header{
+    border-bottom: 6px dotted darkred;
+}
+#stories{
+    width: 80%;
+    min-height: 200px;
+    background-color: #e6edf2e6;
+    border: 1px solid black;
+    margin: auto;
+    border-radius: 25px;
+    padding: 10px;
+}
+.logo{
+    width: 150px;
+}
+.header_box{
+    display: inline-block;
+}
+.header_box2{
+    position: relative;
+    top: -72px;
+}
+.header_box2a{
+    display: inline-block;
+}
+a{
+    text-decoration: none;
+    margin: 5px;
+    border: 1px solid black;
+    padding: 5px;
+    background-color: black;
+    color: gold;
+    border-radius: 12px;
+}
+a:hover{
+
+    background-color: darkred;
+}
+.title{
+    font-size: 40px;
+    font-family: cursive;
+    margin-right: 20px;
+    font-weight: bolder;
+}
+#go_to_top{
+    width: 60px;
+    position: fixed;
+    top: 70%;
+    left: 95%;
+}
+
+.section_img{
+    width: 250px;
+    float: left;
+    margin: 5px;
+    border: 4px double purple;
+    border-radius: 12px;
+}
