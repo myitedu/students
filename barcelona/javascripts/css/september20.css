@@ -1,0 +1,14 @@
+.box{
+    width: 700px;
+    height: 600px;
+    background-color: black;
+    margin: 10px auto;
+    text-align: center;
+    color: #d1fc00;
+    overflow: auto;
+}
+
+.box2{
+    background-color: darkred;
+    color: gold;
+}
