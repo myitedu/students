@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+#room{
+    width: 850px;
+    height: 600px;
+    margin: 50px auto;
+    border: 1px solid red;
+    background-image: url("https://www.craftedbeds.co.uk/cdn/shop/articles/image3.jpg?v=1674490756");
+    background-size: 100% 100%;
+}
+#mytv{
+    width: 157px;
+    height: 97px;
+    position: relative;
+    top: 240px;
+    left: 304px;
+    border: none;
+}

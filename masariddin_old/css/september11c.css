@@ -1,0 +1,12 @@
+.logo{
+    width: 10px;
+}
+th,td{
+    text-transform: capitalize;
+}
+tr:nth-child(even) td{
+    background-color: cadetblue; !important;
+}
+.animals{
+    width: 100px;
+}

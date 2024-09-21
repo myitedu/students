@@ -1,0 +1,12 @@
+.logo{
+    width: 120px;
+}
+th,td{
+    text-transform: capitalize;
+}
+tr:nth-child(even) td{
+    background-color: red !important;
+}
+tr:nth-child(odd) td{
+    background-color: #9dba1e !important;
+}

@@ -1,0 +1,25 @@
+.hotel{
+    width: 800px;
+    height: 500px;
+    border: 6px solid #1e1c1c;
+    background-image: url("https://hoteldel.com/wp-content/uploads/2021/01/hotel-del-coronado-views-suite-K1TOS1-K1TOJ1-1600x900-1.jpg");
+    background-size:  100% 100%;
+    border-radius: 50px;
+    display: block;
+    margin: 50px auto;
+    opacity: 0.5;
+    background-color: green;
+}
+.hotel:hover{
+    opacity: 1;
+    border: 6px solid #ed4040;
+}
+.mytext{
+    width: 100%;
+    background-color: rgba(139, 0, 0, 0.29);
+    font-size: 60px;
+    color: gold;
+    text-align: center;
+    position: relative;
+    top: 200px;
+}

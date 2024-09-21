@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b3a4ad80-21e9-471d-8540-e5d1081e1ecc" name="myitedu.local" url="http://myitedu.local">
+        <fileTransfer mountedRoot="C:\xampp\htdocs\myitedu" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
