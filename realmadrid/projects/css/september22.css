@@ -1,0 +1,73 @@
+body{
+    background-color: black;
+}
+#mywebsite{
+    width: 1000px;
+    height: 700px;
+    margin: 50px auto;
+    background-image: url("https://thumbs.dreamstime.com/b/new-york-city-sunset-aerial-view-looking-over-midtown-manhattan-towards-downtown-41666282.jpg");
+    background-size: cover;
+}
+#div1{
+    width: 100%;
+    height: 80px;
+}
+.logo{
+    width: 80px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.btn-buy-now{
+    background-color: red;
+    float: right;
+    position: relative;
+    top: 20px;
+    right: 100px;
+    color: white;
+    border-radius: 13px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.search{
+    background-color: red;
+    color: white;
+    border-radius: 13px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#div2{
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+#div2 a{
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px;
+    text-shadow: 6px 4px 7px black;
+}
+#div2 a:hover{
+    color: darkred;
+}
+#div3{
+    width: 100%;
+    height: 200px;
+    margin-top: 150px;
+    text-align: center;
+    color: white;
+}
+#div3 h1{
+    text-shadow: 6px 4px 7px black;
+}
+#div4{
+    width: 90%;
+    margin: auto;
+    position: relative;
+    top: -75px;
+}
+#div4 .col{
+    text-align: center;
+}
