@@ -46,6 +46,9 @@
         </div>
     </div>
 
+    <?php
+    mysqli_connect("","","","","")
+    ?>
 
 </div>
 </body>
