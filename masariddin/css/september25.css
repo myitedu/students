@@ -1,0 +1,14 @@
+.alert{
+    display: none;
+}
+.wrong_email{
+    background-color: darkred;
+    color: gold;
+    padding: 3px;
+}
+
+.correct_email{
+    background-color: #289605;
+    color: gold;
+    padding: 3px;
+}
