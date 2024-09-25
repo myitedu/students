@@ -1,0 +1,13 @@
+.title{
+    text-align: center;
+}
+
+#search_form{
+    text-align: center;
+}
+.found{
+    background-color: yellow;
+    color: darkred;
+    padding-left: 2px;
+    padding-right: 2px;
+}
