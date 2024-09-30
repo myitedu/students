@@ -1,32 +1,30 @@
 <?php
-echo "<pre>";
+$arr = [];
 
 function sumRound($num) {
-    $dig = (string) $num;
-    $total_zeros = strlen($dig);
+    global $arr;
+    $total_zeros = strlen((string) $num);
     $jon = (int) str_pad("1",$total_zeros,"0");
-
-    $remainder = $num % 10;
-
 
     $first_number = floor($num / $jon);
     $hundredth = $jon * $first_number;
 
-    $num = $num - $hundredth;
+    array_push($arr, $hundredth);
+
+    $num -= $hundredth;
 
     if ($num<10){
-        return $num;
+        array_push($arr, ($num != 0 ? $num : ""));
+        sort($arr);
+        foreach($arr as $i) {
+            echo $i . " ";
+        }
+        echo "<hr>";
+        $arr = [];
     }else{
         sumRound($num);
     }
-
-
-    echo $num."<hr>";
-
-    echo "<hr>";
-
-
-
+    
 }
 
 sumRound(101);// ➞ "1 100"
