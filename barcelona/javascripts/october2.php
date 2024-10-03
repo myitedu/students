@@ -16,6 +16,7 @@
     <div id="minute">00</div>
     <div id="second">00</div>
     <hr>
+     <button id="btn_stop">STOP</button>
      <button id="btn_go">GO</button>
 </div>
 
