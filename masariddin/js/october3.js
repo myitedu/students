@@ -9,8 +9,6 @@ $(function () {
         }
         loadMyText(keyword);
     });
-
-
     function loadMyText(keyword){
         $.get("files/lorem.txt",{},function (content) {
             let total = content.search(keyword,content); //returns the total number
@@ -44,5 +42,4 @@ $(function () {
     function playMusic(){
         //do something and play music or whatever
     }
-
 });
