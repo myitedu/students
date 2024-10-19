@@ -1,0 +1,17 @@
+h1{
+    color: #822b2b; /*Text color*/
+    text-align: center; /*Text position: left, center, right*/
+    border: 1px solid black; /*Chegara rangi va qalinligi*/
+    background-color: black; /*Orqa fonni rangi*/
+    width: 70%; /*enini razmeri*/
+    margin: auto;/*tashqari position*/
+    border-radius: 12px; /*Chegara burchak yumalaq*/
+    padding: 10px; /*Icharida joy tashash*/
+    background-image: url("https://cdn.pixabay.com/photo/2023/02/01/21/40/pink-7761356_640.png");
+    /*Orqa fonniga rasm quysh*/
+    background-size: cover;/*Orqa fonni rasmini razmeri*/
+    box-shadow: 4px 4px 4px 4px #636161; /*Chegarani 3D qilish*/
+}
+body{
+    background-color: #d2e1ea;
+}
