@@ -1,0 +1,50 @@
+body{
+    background-color: #9ad9f0;
+}
+#mybox{
+    width: 1000px;
+    height: auto;
+    margin: 50px auto;
+    border: 1px solid #bbc4cb;
+    border-radius: 13px;
+    background-color: whitesmoke;
+    padding: 5px;
+}
+.toprow{
+}
+.bottomrow{
+    margin: 0;
+}
+.logo{
+    width: 130px;
+    margin: 10px;
+}
+.toprightcol{
+    text-align: right;
+    padding:10px;
+    padding-right: 20px;
+}
+a{
+    text-decoration: none;
+    margin: 5px;
+    color: grey;
+}
+a:last-child{
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: #6da6c3;
+    color: white;
+}
+.man_photo{
+    position: relative;
+    right: 210px;
+    width: 170%;
+    height: 400px;
+    margin-bottom: 30px;
+}
+.bottom_left_box{
+    width: 90%;
+    height: 300px;
+    margin: 50px auto;
+}
