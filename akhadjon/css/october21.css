@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+#living_room{
+    width: 1000px;
+    height: 600px;
+    margin: 30px auto;
+    border: 1px solid black;
+    background-image: url("https://img.freepik.com/free-photo/modern-indoor-living-room-with-comfortable-sofa-generative-ai_188544-19449.jpg");
+    background-size: 100% 100%;
+}
+#youtube_video{
+    width: 355px;
+    height: 222px;
+    position: relative;
+    top: 109px;
+    left: 352px;
+    border: none;
+}
