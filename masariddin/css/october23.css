@@ -1,0 +1,18 @@
+.container{
+    text-align: center;
+}
+
+#photo_gallery{
+    width: 80%;
+    min-height: 100px;
+    background-color: #deeaf0;
+    margin: auto;
+}
+
+.photo{
+    width: 300px;
+    height: 200px;
+    border-radius: 13px;
+    box-shadow: 4px 4px 20px 4px darkgrey;
+    cursor: pointer;
+}

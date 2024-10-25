@@ -1,0 +1,30 @@
+.container{
+    text-align: center;
+}
+#animal{
+    width: 200px;
+    z-index: 11;
+    margin-top: 300px;
+}
+#cage{
+    position: absolute;
+    bottom: 0px;
+    right: 10px;
+    width: 400px;
+    z-index: 10;
+}
+#banana{
+    width: 200px;
+    position: absolute;
+    left: 30px;
+    bottom: 130px;
+}
+#buttons{
+    position: absolute;
+    bottom: 10px;
+    left: 24%;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
+
