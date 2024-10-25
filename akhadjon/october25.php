@@ -1,0 +1,289 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/october25.css">
+</head>
+<body>
+<div class="container">
+    <h1>Welcome to Daily Notes!!!</h1>
+
+    <table class="table">
+        <tr>
+            <th>No</th>
+            <th>Full Name</th>
+            <th>Position</th>
+            <th>Salary</th>
+        </tr>
+
+        <tr>
+            <td>1</td>
+            <td>Bill Gates</td>
+            <td>Founder Microsoft</td>
+            <td>$1000</td>
+        </tr>
+
+        <tr>
+            <td>2</td>
+            <td>Steve Jobs</td>
+            <td>Founder Apple</td>
+            <td>$1200</td>
+        </tr>
+
+        <tr>
+            <td>3</td>
+            <td>Larry Page</td>
+            <td>Founder Google</td>
+            <td>$1100</td>
+        </tr>
+
+        <tr>
+            <td>4</td>
+            <td>Mark Zuckeberg</td>
+            <td>Founder Facebook</td>
+            <td>$1300</td>
+        </tr>
+
+
+        <tr>
+            <td>1</td>
+            <td>Bill Gates</td>
+            <td>Founder Microsoft</td>
+            <td>$1000</td>
+        </tr>
+
+        <tr>
+            <td>2</td>
+            <td>Steve Jobs</td>
+            <td>Founder Apple</td>
+            <td>$1200</td>
+        </tr>
+
+        <tr>
+            <td>3</td>
+            <td>Larry Page</td>
+            <td>Founder Google</td>
+            <td>$1100</td>
+        </tr>
+
+        <tr>
+            <td>4</td>
+            <td>Mark Zuckeberg</td>
+            <td>Founder Facebook</td>
+            <td>$1300</td>
+        </tr>
+
+
+        <tr>
+            <td>1</td>
+            <td>Bill Gates</td>
+            <td>Founder Microsoft</td>
+            <td>$1000</td>
+        </tr>
+
+        <tr>
+            <td>2</td>
+            <td>Steve Jobs</td>
+            <td>Founder Apple</td>
+            <td>$1200</td>
+        </tr>
+
+        <tr>
+            <td>3</td>
+            <td>Larry Page</td>
+            <td>Founder Google</td>
+            <td>$1100</td>
+        </tr>
+
+        <tr>
+            <td>4</td>
+            <td>Mark Zuckeberg</td>
+            <td>Founder Facebook</td>
+            <td>$1300</td>
+        </tr>
+
+
+        <tr>
+            <td>1</td>
+            <td>Bill Gates</td>
+            <td>Founder Microsoft</td>
+            <td>$1000</td>
+        </tr>
+
+        <tr>
+            <td>2</td>
+            <td>Steve Jobs</td>
+            <td>Founder Apple</td>
+            <td>$1200</td>
+        </tr>
+
+        <tr>
+            <td>3</td>
+            <td>Larry Page</td>
+            <td>Founder Google</td>
+            <td>$1100</td>
+        </tr>
+
+        <tr>
+            <td>4</td>
+            <td>Mark Zuckeberg</td>
+            <td>Founder Facebook</td>
+            <td>$1300</td>
+        </tr>
+
+
+        <tr>
+            <td>1</td>
+            <td>Bill Gates</td>
+            <td>Founder Microsoft</td>
+            <td>$1000</td>
+        </tr>
+
+        <tr>
+            <td>2</td>
+            <td>Steve Jobs</td>
+            <td>Founder Apple</td>
+            <td>$1200</td>
+        </tr>
+
+        <tr>
+            <td>3</td>
+            <td>Larry Page</td>
+            <td>Founder Google</td>
+            <td>$1100</td>
+        </tr>
+
+        <tr>
+            <td>4</td>
+            <td>Mark Zuckeberg</td>
+            <td>Founder Facebook</td>
+            <td>$1300</td>
+        </tr>
+
+
+        <tr>
+            <td>1</td>
+            <td>Bill Gates</td>
+            <td>Founder Microsoft</td>
+            <td>$1000</td>
+        </tr>
+
+        <tr>
+            <td>2</td>
+            <td>Steve Jobs</td>
+            <td>Founder Apple</td>
+            <td>$1200</td>
+        </tr>
+
+        <tr>
+            <td>3</td>
+            <td>Larry Page</td>
+            <td>Founder Google</td>
+            <td>$1100</td>
+        </tr>
+
+        <tr>
+            <td>4</td>
+            <td>Mark Zuckeberg</td>
+            <td>Founder Facebook</td>
+            <td>$1300</td>
+        </tr>
+
+
+        <tr>
+            <td>1</td>
+            <td>Bill Gates</td>
+            <td>Founder Microsoft</td>
+            <td>$1000</td>
+        </tr>
+
+        <tr>
+            <td>2</td>
+            <td>Steve Jobs</td>
+            <td>Founder Apple</td>
+            <td>$1200</td>
+        </tr>
+
+        <tr>
+            <td>3</td>
+            <td>Larry Page</td>
+            <td>Founder Google</td>
+            <td>$1100</td>
+        </tr>
+
+        <tr>
+            <td>4</td>
+            <td>Mark Zuckeberg</td>
+            <td>Founder Facebook</td>
+            <td>$1300</td>
+        </tr>
+
+
+        <tr>
+            <td>1</td>
+            <td>Bill Gates</td>
+            <td>Founder Microsoft</td>
+            <td>$1000</td>
+        </tr>
+
+        <tr>
+            <td>2</td>
+            <td>Steve Jobs</td>
+            <td>Founder Apple</td>
+            <td>$1200</td>
+        </tr>
+
+        <tr>
+            <td>3</td>
+            <td>Larry Page</td>
+            <td>Founder Google</td>
+            <td>$1100</td>
+        </tr>
+
+        <tr>
+            <td>4</td>
+            <td>Mark Zuckeberg</td>
+            <td>Founder Facebook</td>
+            <td>$1300</td>
+        </tr>
+
+
+        <tr>
+            <td>1</td>
+            <td>Bill Gates</td>
+            <td>Founder Microsoft</td>
+            <td>$1000</td>
+        </tr>
+
+        <tr>
+            <td>2</td>
+            <td>Steve Jobs</td>
+            <td>Founder Apple</td>
+            <td>$1200</td>
+        </tr>
+
+        <tr>
+            <td>3</td>
+            <td>Larry Page</td>
+            <td>Founder Google</td>
+            <td>$1100</td>
+        </tr>
+
+        <tr>
+            <td>4</td>
+            <td>Mark Zuckeberg</td>
+            <td>Founder Facebook</td>
+            <td>$1300</td>
+        </tr>
+
+
+    </table>
+
+</div>
+
+</body>
+</html>
