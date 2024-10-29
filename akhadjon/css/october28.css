@@ -1,0 +1,17 @@
+#box{
+    width: 100%;
+    margin: auto;
+}
+#top{
+    background-color: red;
+    height: 100px;
+}
+
+#middle{
+    background-color: #14bdce;
+    height: 400px;
+}
+#bottom{
+    background-color: #6d89cb;
+    height: 100px;
+}
