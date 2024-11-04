@@ -1,0 +1,70 @@
+body{
+    background: linear-gradient(to right, #44045b, #efbb36);
+    background-image: url("https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/SKD-bqAkQjhvrjayf/videoblocks-motion-colorful-neon-lines-abstract-background-elegant-and-luxury-dynamic-club-style-template_rregq_c7u_thumbnail-1080_02.png");
+    background-size: cover;
+}
+#login_form{
+    width: 530px;
+    height: 500px;
+    background-color: #0d0b33c7;
+    border: 1px solid #4a4a4f;
+    border-radius: 12px;
+    margin: 160px auto;
+    box-shadow: 4px 4px 32px 4px black;
+}
+.form_title{
+    text-align: center;
+    color: white;
+    margin-top: 50px;
+    font-family: Verdana;
+}
+.div1{
+    height: 40px;
+    width: 80%;
+    margin: auto;
+    border-bottom: 1px solid white;
+}
+.div2{
+    height: 40px;
+    width: 80%;
+    margin: auto;
+    border-bottom: 1px solid white;
+}
+.div2a{
+    width: 80%;
+    margin: auto;
+    color: #d2d2d2;
+    font-size: 12px;
+}
+a{
+    color: #d2d2d2;
+    text-decoration: none;
+}
+.div2_left{
+
+}
+.div2_right{
+    text-align: right;
+}
+.div3{
+    height: 40px;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+.myinputs{
+    width: 100%;
+    background: none;
+    border: none;
+    color: yellow;
+}
+.mybtn{
+    width: 100%;
+    border-radius: 10px;
+    padding: 4px;
+}
+
+input::placeholder{
+    color: #bd96f9;
+    font-weight: bolder;
+}
