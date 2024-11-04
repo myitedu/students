@@ -1,0 +1,88 @@
+body {
+    background-color: #3d3b3b;
+}
+
+#receipt {
+    width: 340px;
+    height: 800px;
+    border: 1px solid black;
+    margin: 5px auto;
+    background-color: white;
+    /*background-image: url("../img/receipt.jpg");*/
+    background-size: 100% 100%;
+    border-radius: 13px;
+    box-shadow: 4px 4px 20px 4px black;
+}
+
+#address {
+    text-align: center;
+    font-size: 13px;
+    padding-top: 3px;
+}
+
+#receipt_date {
+    width: 100%;
+    height: 35px;
+    border-top: 3px dotted red;
+    border-bottom: 3px dotted red;
+}
+
+.date_left {
+    text-align: center;
+    font-size: 20px;
+}
+
+.date_right {
+    text-align: center;
+    font-size: 20px;
+}
+
+#items {
+    width: 90%;
+    max-height: 350px;
+    margin: auto;
+    overflow: auto;
+}
+
+#items_table {
+    width: 100%;
+    margin: auto;
+}
+
+#total {
+    height: 50px;
+}
+
+#total_table {
+    width: 100%;
+    margin: auto;
+}
+
+#total_table td {
+    text-align: center;
+}
+
+#you_pay {
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+    background-color: rgba(138, 4, 4, 0.41);
+}
+
+#form {
+    width: 500px;
+    height: 300px;
+    border: 1px solid yellow;
+    background-color: white;
+    position: absolute;
+    right: 10px;
+    top: 40%;
+}
+#add_items_table{
+    width: 100%;
+    margin: auto;
+}
+input{
+    width: 80%;
+}
