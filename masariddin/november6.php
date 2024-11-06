@@ -11,9 +11,9 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
             integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
             crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="css/november4.css">
+    <link rel="stylesheet" href="css/november6.css">
     <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
-    <script src="js/november4.js"></script>
+    <script src="js/november6.js"></script>
 </head>
 <body>
 
@@ -39,7 +39,11 @@
 
     <div id="items">
         <table class="table table-bordered" id="items_table">
-
+            <tr>
+                <td>4</td>
+                <td>Coffee</td>
+                <td>4.22</td>
+            </tr>
         </table>
     </div>
 
@@ -51,22 +55,22 @@
         <table class="table table-bordered" id="total_table">
             <tr>
                 <td>Subtotal</td>
-                <td id="display_subtotal">$0.00</td>
+                <td>3.56</td>
             </tr>
             <tr>
                 <td>Tax</td>
-                <td id="display_taxes">$0.00</td>
+                <td>0.76</td>
             </tr>
             <tr>
                 <td>Total</td>
-                <td id="display_grandtotal">$0.00</td>
+                <td>9.76</td>
             </tr>
         </table>
     </div>
 
     <div style="height: 135px"></div>
 
-    <div id="you_pay">$0.00</div>
+    <div id="you_pay">$100.00</div>
 
 
 
@@ -82,12 +86,12 @@
         <tr>
             <td><input type="text" id="item_name"></td>
             <td><input type="text" id="item_price"></td>
-            <td><input min="1" max="99" type="number" id="item_qty"></td>
+            <td><input min="1" max="99" type="number" id="qty"></td>
         </tr>
 
         <tr>
             <td colspan="2">
-                <button id="btn_add_new_item">ADD</button>
+                <button>ADD</button>
             </td>
         </tr>
     </table>
