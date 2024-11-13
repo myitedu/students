@@ -1,0 +1,25 @@
+#boxes{
+    width: 100%;
+    padding: 0;
+}
+
+.left_box{
+    width: 33%;
+    height: 900px;
+    background-color: red;
+    float: left;
+}
+
+.middle_box{
+    width: 34%;
+    height: 900px;
+    background-color: green;
+    float: left;
+}
+
+.right_box{
+    width: 33%;
+    height: 900px;
+    background-color: blue;
+    float: right;
+}
