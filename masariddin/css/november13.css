@@ -1,0 +1,24 @@
+.photo{
+    width: 200px;
+    height: 150px;
+    border-radius: 13px;
+    box-shadow: 4px 4px 24px 4px black;
+}
+
+th{
+    background-color: darkblue !important;
+    color: white !important;
+}
+
+th, td{
+    width: 200px;
+}
+
+#cars_table tr:nth-child(even) td{
+    background-color: #9caff1 !important;
+}
+.btn_delete_icon{
+    width: 50px;
+    position: relative;
+    cursor: pointer;
+}
