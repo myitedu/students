@@ -1,0 +1,33 @@
+/* General styling for the movie night layout */
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+    background-image: url("https://s7d2.scene7.com/is/image/TWCNews/getty_movie_theaterjpg");
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+h1 {
+    font-weight: bold;
+    color: #efbb36;
+
+}
+
+#videoThumbnails img {
+    width: 100%;
+    height: auto;
+    cursor: pointer;
+    margin-bottom: 10px;
+    border-radius: 8px;
+}
+
+#videoThumbnails .list-group-item {
+    border: none;
+    padding: 5px;
+}
+
+.left_section{
+    max-height: 600px;
+    overflow: auto;
+}
