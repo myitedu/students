@@ -1,0 +1,112 @@
+/* General Page Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+h3 {
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+h6 {
+    margin: 0;
+    text-transform: uppercase;
+    font-size: 1rem;
+}
+
+/* Table Styles */
+.table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.table th,
+.table td {
+    border: 1px solid #ddd;
+    text-align: center;
+    padding: 8px;
+}
+
+.table thead th {
+    background-color: #e9ecef;
+    font-weight: bold;
+}
+
+.table tfoot td {
+    background-color: #f8f9fa;
+    font-weight: bold;
+}
+
+.table input {
+    border: none;
+    text-align: center;
+}
+
+/* Section Headers */
+.bg-primary {
+    background-color: #007bff !important;
+}
+
+.bg-success {
+    background-color: #28a745 !important;
+}
+
+.bg-danger {
+    background-color: #dc3545 !important;
+}
+
+/* Chart Container */
+#piechart {
+    background-color: #f8f9fa;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+}
+
+/* Form Inputs */
+input[type="text"],
+input[type="number"],
+input[type="date"] {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 6px 10px;
+    font-size: 0.95rem;
+}
+
+/* Footer Section */
+.row input {
+    width: 100%;
+}
+
+/* Miscellaneous Styling */
+.text-muted {
+    color: #6c757d !important;
+}
+
+.text-white {
+    color: #fff !important;
+}
+
+.text-center {
+    text-align: center !important;
+}
+
+.text-end {
+    text-align: end !important;
+}
+
+.text-start {
+    text-align: start !important;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .row input {
+        margin-bottom: 10px;
+    }
+
+    #piechart {
+        height: 200px;
+    }
+}
