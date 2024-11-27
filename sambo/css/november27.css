@@ -1,0 +1,16 @@
+p{
+    padding: 5px;
+    border: 1px solid black;
+    background-color: #e0c3c8;
+}
+
+p:nth-child(even){
+    background-color: #6b6b98;
+}
+
+p:first-letter{
+    font-size: 30px;
+    color: darkgreen;
+
+    list-style-type: s;
+}
