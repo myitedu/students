@@ -1,0 +1,22 @@
+h2{
+    text-align: center;
+    color: #4d054d;
+}
+th{
+    background-color: black !important;
+    color: gold !important;
+}
+tr:nth-child(odd) td{
+    background-color: #beb9b9;
+}
+tr:hover td{
+    background-color: #6b6b98 !important;
+    cursor: pointer;
+}
+form{
+    text-align: center;
+}
+input, select{
+    width: 200px;
+    height: 40px;
+}
