@@ -1,0 +1,13 @@
+.title{
+    padding-bottom: 32px;
+    border-bottom: 5px dotted #d31010;
+    text-align: center;
+}
+#guestbook_form{
+    text-align: center;
+}
+#guestbook_form textarea{
+    width: 100%;
+    min-height: 200px;
+    max-height: 400px;
+}
