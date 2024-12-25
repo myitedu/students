@@ -1,6 +1,12 @@
 <?php
 class Wedding{
+
+    public $budget;
+    public $money;
+
     public function __construct(){
+        $this->money = "170000";
+        $this->budget = "$20000";
         echo "Entrance <hr>";
     }
 
@@ -22,8 +28,3 @@ class Wedding{
     }
 }
 
-
-$asliddinovs = new Wedding();
-$asliddinovs->greet();
-$asliddinovs->eat();
-$asliddinovs->dance();
